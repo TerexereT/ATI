@@ -1,0 +1,26 @@
+* {
+    font-family: verdana;
+    
+}
+
+.foto{
+    margin-right: 1%;
+   
+}
+
+.texto{
+    
+}
+
+.negrita{
+    font-weight: 700;
+}
+
+body > div {
+    display: inline-block;
+}
+
+.profile {
+    display: flex;
+    
+}
