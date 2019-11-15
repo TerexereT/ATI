@@ -24,3 +24,8 @@ body > div {
     display: flex;
     
 }
+
+p,td{
+    text-align: justify;
+    font-size: large;
+}
